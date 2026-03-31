@@ -2,10 +2,10 @@
 **Portfolio Project | PostgreSQL + Tableau Public**
 
 ## Project Overview
-Adidas sales performance fluctuates from month to month, making it difficult to clearly identify which categories, channels, and regions are driving growth, which areas are hurting profitability, and how marketing spend contributes to business performance. This project analyzes sales and marketing data using PostgreSQL and Tableau to uncover performance drivers, track key KPIs, and translate findings into actionable business recommendations.
+ Adidas sales performance project to analyze sales and marketing data using PostgreSQL and Tableau to  and translate findings into actionable business recommendations.
 
 ## Business Problem
-Management needs a clearer view of:
+Adidas management needs a clearer view of:
 - which products, categories, channels, and regions generate the strongest results,
 - how discounting affects revenue and profit,
 - whether marketing spend is producing efficient returns,
