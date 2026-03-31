@@ -155,14 +155,20 @@ Revenues related to increasing or decreasing marketing spending show significant
 
 ---
 
-## Recommendations
-Based on the analysis, the following actions are recommended:
-**1.**Customer experience in the "Retail" channel, where high-value orders are concentrated, can be improved by integrating it with the "Online" channel, pushing it further up the basket.
-**2.** Regional campaign budgets can be optimized to increase market share in the European market, where profitability is highest. Data shows a lack of response to high discounts worldwide. Therefore, instead of a "Discount of more than 10%" model, a "No Discount or Less than 10% Discount" sales strategy that protects brand value can be tried.
-**3.**The increase in demand in March and April (seasonality) suggests that stocking and marketing expenditures should be significant.
-The low-performing category of accessories can be positioned not as an undesirable "hero product," but as basket complementary products.
-**4.**Increase total revenue per order through targeted incentives with PayPal and internet banking support. You can organize different marketing campaigns with PayPal and internet banking companies and use payment as a behavioral segmentation variable in marketing campaigns and advertisements.
-**5.**In the North American region, high efficiency from email marketing is evident, leading to increased revenue and profit through targeted marketing strategies and email-specific campaigns. In the Asia Pacific region, data is largely collected through Google Ads, resulting in expanding Google ad budgets. Performance marketing can be prioritized by experimenting with different Google Ads.
+##  🚀 Recommendations
+
+Based on my analysis, I recommend these:
+
+**1.** Customer experience in the "Retail" channel, where high-value orders are concentrated, can be improved by integrating it with the "Online" channel, pushing it further up the basket.  
+
+**2.** Regional campaign budgets can be optimized to increase market share in the European market, where profitability is highest. Data shows a lack of response to high discounts worldwide. Therefore, instead of a "Discount of more than 10%" model, a "No Discount or Less than 10% Discount" sales strategy that protects brand value can be tried.  
+
+**3.** The increase in demand in March and April (seasonality) suggests that stocking and marketing expenditures should be significant. The low-performing category of accessories can be positioned not as an undesirable "hero product," but as basket complementary products.  
+
+**4.** Increase total revenue per order through targeted incentives with PayPal and internet banking support. You can organize different marketing campaigns with PayPal and internet banking companies and use payment as a behavioral segmentation variable in marketing campaigns and advertisements.  
+
+**5.** In the North American region, high efficiency from email marketing is evident, leading to increased revenue and profit through targeted marketing strategies and email-specific campaigns. In the Asia Pacific region, data is largely collected through Google Ads, resulting in expanding Google ad budgets. Performance marketing can be prioritized by experimenting with different Google Ads.  
+
 **6.** Generally, Instagram ads appear to generate high revenue while incurring high costs; therefore, experiments can be conducted to see how lower the return on investment is with Story ads, or to assess the success of ad trials through A/B testing. The overall system can be weighted by measuring channel-based marketing performance.
 
 
@@ -189,4 +195,4 @@ The Tableau solution is designed as a 4-panel analytics dashboard covering:
 
 ## Author
 **[Eda]**  
-Junior Data Analyst Portfolio Project
+Junior Data Analyst- Portfolio Project
