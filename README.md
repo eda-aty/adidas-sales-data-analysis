@@ -91,43 +91,31 @@ Do discount rates increase sales volume, or do they erode profit margins?
 ### 4. Monthly KPIs and Growth Trends (MoM & YoY) (Phase 5 & 6)
 
 #### a) Monthly Performance
-**Business Question:**  
-What is our monthly profit margin and growth rate (MoM)?
+**Business Question:**  a)  "What is our monthly profit margin and growth rate (MoM)?" “
+- **Highest Sales Month:** According to the data, October 2023 is an all-time high with total sales of $38,326.47. This month also marks the highest sales volume with 456 units.
+- **Most Profitable Month:** March 2024 leads in total profit with $11,856.63.
+- **Highest Profit Margins:**  : The months with the highest profit margins are July 2025 (31.71%), November 2023 (31.56%), and June 2024 (31.49%).
+In March 2024, sales showed a record growth of 107.4% (1.0744) compared to the previous month. There is similar growth in May 2024. March-May 2024 stand out in terms of sales growth. - The highest **AOV** was observed in April 2023 with **$291.05**). 
 
-- **Highest Sales Month:** October 2023 with **$38,326.47** in total sales and **456 units sold**.  
-- **Most Profitable Month:** March 2024 with **$11,856.63** in profit.  
-- **Highest Profit Margins:**  
-  - July 2025 → **31.71%**  
-  - November 2023 → **31.56%**  
-  - June 2024 → **31.49%**  
-- March 2024 shows a **107.4% MoM growth**, with similar growth in May 2024.  
-- The highest **AOV** was observed in April 2023 (**$291.05**).  
 
 #### b) Year-over-Year (YoY) Growth
-**Business Question:**  
-What percentage did our sales grow compared to January of last year?
+“I tried to write code for total sales (revenue) and year-on-year growth (YoY) for each month to compare the total revenue data for January 2025 with the total revenue data for January 2024 using YoY calculations.” 
+**Business Questions:**    "What percentage did our sales grow compared to January of last year?"
+**January 2025:** total revenue: $21,489.84, 2024 total revenue: $30,080.88
+YOY revenue growth: -28.56
+January 2024: $30,080.88, 2023 total revenue: $26,523.45
+YOY revenue growth: 13.41
+Sales in 2025 decreased by 28.56% compared to January of last year (2024) (there is a contraction, not growth). Sales in 2024, however, showed a growth of 13.41% compared to January 2023.
 
-- January 2025 revenue: **$21,489.84**  
-- January 2024 revenue: **$30,080.88**  
-→ **YoY Growth: -28.56% (decline)**  
-
-- January 2024 revenue: **$30,080.88**  
-- January 2023 revenue: **$26,523.45**  
-→ **YoY Growth: +13.41%**  
 
 ---
 
 ### 5. Product and Category Performance (Phase 6)
 **Business Questions:**  
-Which products and categories perform best?  
-How do average unit prices vary?
-
-- Top revenue-generating products:  
-  - Predator Freak → **$94,797.24**  
-  - Ultraboost Light → **$90,576.27**  
-  - Primegreen Jacket → **$83,160.27**  
-- **Footwear** is the strongest category with **$179,005.62**, while **Accessories** is the weakest with **$30,994.47**.  
-- The average unit price in Footwear (**$128.62**) is approximately **4x higher** than Accessories (**$32.00**).  
+Which products and categories perform best?  How do average unit prices vary?
+-The product **“Predator Freak”** is the top revenue-generating product with **$94,797.24**, followed by **Ultraboost Light** with $90,576.27 and Primegreen Jacket with $83,160.27. The top 3 categories are **Footwear** and **Apparelv.
+-The Footwear category is the strongest category with a total revenue of $179,005.62, while the Accessories category shows the lowest performance with $30,994.47.
+-The average unit price of products in the footwear category ($128.62) is approximately 4 times that of accessories ($32.00).
 
 ---
 
@@ -135,8 +123,7 @@ How do average unit prices vary?
 **Business Question:**  
 How do payment methods affect AOV?
 
-- Customers using **PayPal** and **internet banking** spend more per transaction.  
-- Customers using **mobile wallets** and **cash** have lower average order values.  
+-It is observed that customers using **PayPal** and **internet banking** spend more per transaction, while those using mobile wallets and cash have lower average order amounts. 
 
 ---
 
@@ -144,8 +131,8 @@ How do payment methods affect AOV?
 **Business Question:**  
 How do customer demographics reflect product preferences and revenue?
 
-- The **Footwear (Shoes)** category is the top-performing category across all genders and age groups.  
-- **Accessories** ranks second and **Purposewear** ranks third across segments.  
+-The **“Shoes”** category is the best performing category across all genders and age groups, consistently ranking first in terms of revenue generation. The **“Accessories”** category ranks 2nd and the “Purposewear” category ranks 3rd for both genders.
+
 
 ---
 
@@ -154,28 +141,18 @@ How do customer demographics reflect product preferences and revenue?
 ### 8. Region & Channel Based ROAS Analysis
 **Business Question:**  
 In which regions and channels do marketing expenditures yield the highest ROAS?
-
-- **North America** achieves the highest ROAS (**14.85**) through **Email campaigns**.  
-- It also performs strongly in:  
-  - Instagram → **7.61 ROAS**  
-  - Facebook → **3.79 ROAS**  
-- **Asia-Pacific** ranks second with strong ROAS across multiple channels, including:  
-  - Google Ads → **10.38 ROAS**  
-  - Instagram, Facebook, and others  
+- **North America** has the highest return on advertising spend with 14.85 ROAS, achieved through email campaigns. The North American region also generates high ROAS through Instagram (7.61 ROAS) and Facebook (3.79 ROAS) channels.
+- **Asia-Pacific** region ranks 2nd in terms of region ROAS with 10.38 ROAS through Google Ads and stands out in achieving high returns with ROAS across multiple channels such as Instagram, Google Ads, and Facebook.
 
 ---
 
 ### 9. Marketing Efficiency Trend
 **Business Question:**  
-Does revenue increase proportionally with increased marketing spend?  
-Which is the most efficient month?
+Does revenue increase proportionally with increased marketing spend?  Which is the most efficient month?
+- **April 2023**  was the most efficient month, achieving the lowest cost ratio of 8.98 and the highest return on marketing spending. - **February 2023** represents the least efficient period, with marketing spending significantly exceeding revenue at 27.44.
+- **Marketing cost** ratio fluctuates between **8.98 and 27.44**, indicating instability. 
+Revenues related to increasing or decreasing marketing spending show significant fluctuations between months.
 
-- **April 2023** is the most efficient month with the lowest cost ratio (**8.98**).  
-- **February 2023** is the least efficient month with the highest ratio (**27.44**).  
-- Marketing cost ratio fluctuates between **8.98 and 27.44**, indicating instability.  
-- Revenue does not consistently increase with higher marketing spend, showing inefficiencies in budget allocation.  
-
----
 ---
 
 ## Recommendations
