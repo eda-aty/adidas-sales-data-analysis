@@ -27,7 +27,7 @@ Management needs a clearer view of:
 This project uses a Adidas sales Kaggle dataset enriched with additional marketing data to support performance marketing analysis.
 
 ## Tableau Dashboard
-[View Dashboard on Tableau Public](https://public.tableau.com/views/Adidasproject/DeepInsightDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Dashboard on Tableau Public](https://public.tableau.com/views/Adidasproject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -157,24 +157,14 @@ Revenues related to increasing or decreasing marketing spending show significant
 
 ## Recommendations
 Based on the analysis, the following actions are recommended:
+**1.**Customer experience in the "Retail" channel, where high-value orders are concentrated, can be improved by integrating it with the "Online" channel, pushing it further up the basket.
+**2.** Regional campaign budgets can be optimized to increase market share in the European market, where profitability is highest. Data shows a lack of response to high discounts worldwide. Therefore, instead of a "Discount of more than 10%" model, a "No Discount or Less than 10% Discount" sales strategy that protects brand value can be tried.
+**3.**The increase in demand in March and April (seasonality) suggests that stocking and marketing expenditures should be significant.
+The low-performing category of accessories can be positioned not as an undesirable "hero product," but as basket complementary products.
+**4.**Increase total revenue per order through targeted incentives with PayPal and internet banking support. You can organize different marketing campaigns with PayPal and internet banking companies and use payment as a behavioral segmentation variable in marketing campaigns and advertisements.
+**5.**In the North American region, high efficiency from email marketing is evident, leading to increased revenue and profit through targeted marketing strategies and email-specific campaigns. In the Asia Pacific region, data is largely collected through Google Ads, resulting in expanding Google ad budgets. Performance marketing can be prioritized by experimenting with different Google Ads.
+**6.** Generally, Instagram ads appear to generate high revenue while incurring high costs; therefore, experiments can be conducted to see how lower the return on investment is with Story ads, or to assess the success of ad trials through A/B testing. The overall system can be weighted by measuring channel-based marketing performance.
 
-1. **Prioritize high-performing regions**  
-   Focus growth efforts on Europe and Asia-Pacific for commercial performance, and North America / Asia-Pacific for marketing efficiency.
-
-2. **Protect full-price sales**  
-   Large discounts reduce both order volume and profitability. Use discounting selectively.
-
-3. **Double down on hero products**  
-   Support best-selling products such as Predator Freak and Ultraboost Light with better placement, inventory, and targeted campaigns.
-
-4. **Scale efficient marketing channels**  
-   Expand channels with proven ROAS such as Email in North America and high-performing paid channels in Asia-Pacific.
-
-5. **Monitor monthly volatility closely**  
-   Growth is not stable. Use MoM and YoY trend tracking to identify early changes in demand and profitability.
-
-6. **Use customer segmentation for targeting**  
-   Payment behavior and demographic patterns can support more focused pricing, promotion, and retention strategies.
 
 ---
 
