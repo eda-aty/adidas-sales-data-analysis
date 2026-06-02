@@ -186,13 +186,12 @@ The Tableau solution is designed as a 4-panel analytics dashboard covering:
 ## SQL Skills Demonstrated
 - Aggregation and grouping
 - CASE-based business logic
-- Window functions (`LAG`, ranking)
+- Window functions (`LAG`, 'RANK')
 - MoM and YoY calculations
 - KPI calculations
-- View creation for dashboard-ready datasets
-- Marketing and sales performance integration
+- Wındow function using and creating  Monthly Marketing and Sales performance scripts
 ---
 
 ## Author
 **[Eda]**  
-Junior Data Analyst- Portfolio Project
+Junior Data Analyst
